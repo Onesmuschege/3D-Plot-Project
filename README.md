@@ -5,10 +5,10 @@ The script demonstrates how to create and visualize mathematical functions in th
 
 It includes the following features:
 
-  >Generation of a mesh grid for X and Y values.
-  >Definition of a mathematical function.
-  >Plotting the 3D contour of the function.
-  >Saving the plot as an image file.
+  1. Generation of a mesh grid for X and Y values.
+  2. Definition of a mathematical function.
+  3. Plotting the 3D contour of the function.
+  4. Saving the plot as an image file.
 
 Contents:
 Counter_Plot.py: The main script that generates and displays the 3D plot.
